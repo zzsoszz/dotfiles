@@ -107,3 +107,6 @@ source $ZSH/oh-my-zsh.sh
 
 #bindkey "\e\e[D" backward-word
 #bindkey "\e\e[C" forward-word
+
+
+# test
